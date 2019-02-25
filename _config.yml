@@ -43,7 +43,7 @@ avatar: "/img/forgit.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FFFFFF"
+navbar-col: "##48A5A8"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
