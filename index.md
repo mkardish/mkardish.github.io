@@ -10,4 +10,4 @@ Hi! I’m Melissa Kardish, a PhD candidate in Population Biology at the Universi
   
   Global Patterns | Fine Scale Differences | Targeted Manipulation
 ------------------|------------------------|-------
- ![Zostera Experimental Network]("/img/forgithub.jpg")|  Reciprocal Transplants in Bodega Bay "/img/forgithub.jpg"|  Manipulative Experiments "/img/forgithub.jpg"
+ ![Zostera Experimental Network](/img/forgithub.jpg)|  Reciprocal Transplants in Bodega Bay "/img/forgithub.jpg"|  Manipulative Experiments "/img/forgithub.jpg"
