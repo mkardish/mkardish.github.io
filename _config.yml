@@ -25,11 +25,12 @@ description: Community and Microbial Ecologist
 navbar-links:
   About: "aboutme"
   Research:
-    - Zostera Experimental Network: "http://deanattali.com/beautiful-jekyll/"
-    - Reciprocal Transplants in Bodega Bay: "http://www.markdowntutorial.com/"
-    - Seagrass Microbiome Project
-    - Past Research: "https://pages.github.com/"
-  Publications: "http://deanattali.com"
+    - Zostera Experimental Network: "zenmelissa"
+    - Reciprocal Transplants in Bodega Bay: "transplants"
+    - Seagrass Microbiome Project: "https://seagrassmicrobiome.org/"
+    - Biofilms: "biofilms"
+    - Past Research: "pastwork"
+  Publications: "publications"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -43,7 +44,7 @@ avatar: "/img/forgit.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "##48A5A8"
+navbar-col: "#48A5A8"
 navbar-text-col: "#48A5A8"
 navbar-children-col: "#48A5A8"
 page-col: "#FFFFFF"
@@ -97,6 +98,7 @@ share-links-active:
   facebook: false
   google: false
   linkedin: false
+  github: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
