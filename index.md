@@ -9,6 +9,6 @@ Welcome! I'm a PhD candidate in Population Biology at the University of Californ
 </center>
 
 
-  <center> Global Patterns </center>  | <center> Fine Scale Differences </center>| <center> Targeted Manipulation</center>
+Global Patterns | Fine Scale Differences |  Targeted Manipulation
 ------------------|------------------------|-------
  ![Zostera Experimental Network](/img/ZEN_sitemap.jpg)|  ![Reciprocal Transplants in Bodega Bay](/img/transplants.jpg)|  ![Manipulative Experiments](/img/tankexperiments.jpg)
