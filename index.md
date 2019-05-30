@@ -10,4 +10,4 @@ Welcome! I'm a PhD candidate in Population Biology at the University of Californ
   
   Global Patterns | Fine Scale Differences | Targeted Manipulation
 ------------------|------------------------|-------
- ![Zostera Experimental Network](/img/forgithub.jpg)|  Reciprocal Transplants in Bodega Bay "/img/forgithub.jpg"|  Manipulative Experiments "/img/forgithub.jpg"
+ ![Zostera Experimental Network](/img/ZEN_sitemap.jpeg)|  Reciprocal Transplants in Bodega Bay (/img/transplants.jpeg)|  Manipulative Experiments (/img/tanks.jpeg)
