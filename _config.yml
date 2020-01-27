@@ -35,7 +35,7 @@ navbar-links:
     - Seagrass Microbiome Project: "https://seagrassmicrobiome.org/"
   Mentoring/Teaching/Outreach: "mto"
   Publications: "publications"
-  CV: "cv"
+  CV: "KardishCV122019_website.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
