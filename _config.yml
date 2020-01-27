@@ -33,7 +33,7 @@ navbar-links:
     - Biofilms: "biofilms"
     - Past Research: "pastwork"
     - Seagrass Microbiome Project: "https://seagrassmicrobiome.org/"
-  Mentoring/Teaching/Outreach: "mto"
+  Mentoring/Teaching/\nOutreach: "mto"
   Publications: "publications"
   CV: "cv"
 
