@@ -1,7 +1,7 @@
 ---
 title: Melissa Kardish
 subtitle: Community and Microbial Ecology
-project-list:
+project-list: 
  -name: Global Patterns
   img: /img/ZEN_sitemap.jpg
   url: ![Zostera Experimental Network]
@@ -11,6 +11,7 @@ project-list:
  -name: Targeted Manipulation
   img: /img/tankexperiments.jpg
   url: ![Manipulative Experiments]
+  
 ---
 <br/>
 <center>
