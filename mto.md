@@ -1,4 +1,5 @@
 ---
+layout: page
 title: mto
 project-list: 
   - name: Global Patterns
