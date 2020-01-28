@@ -17,9 +17,8 @@ project-list:
   
 ---
 <br/>
-### Projects I'm working on
 <center>
 Welcome! I'm a PhD candidate in Population Biology at the University of California, Davis currently studying seagrass-bacterial communities but broadly interested in host-microbiome interactions and feedbacks.
 </center>  
-<br/>
+### Projects I'm working on
 {% include list-circles.html items=page.project-list %}
