@@ -1,6 +1,7 @@
 ---
 title: Melissa Kardish
 subtitle: Community and Microbial Ecology
+use-site-title: true	
 project-list: 
   - name: Global Patterns
     img: /img/ZEN_sitemap.jpg
