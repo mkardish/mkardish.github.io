@@ -27,7 +27,7 @@ navbar-links:
   About Me: "aboutme"
   Research:
     - Zostera Experimental Network: "zenmelissa"
-      - ZEN: "http://zenscience.org/"
+    - ZEN: "http://zenscience.org/"
     - Reciprocal Transplants in Bodega Bay: "transplants"
     - Lab Manipulations: "tanks"
     - Biofilms: "biofilms"
