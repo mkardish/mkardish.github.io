@@ -13,9 +13,7 @@ project-list:
     desc: Artificially manipulating communities to look at host-microbiome responses
   
 ---
-<br/>
 <center>
 Welcome! I'm a PhD candidate in Population Biology at the University of California, Davis currently studying seagrass-bacterial communities but broadly interested in host-microbiome interactions and feedbacks.
 </center>  
-<br/>  
 {% include list-circles.html items=page.project-list %}
