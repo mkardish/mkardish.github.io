@@ -3,13 +3,13 @@ title: Melissa Kardish
 subtitle: Community and Microbial Ecology
 project-list: 
   - name: Global Patterns
-    img: /img/ZEN_sitemap.jpg
+    img: /img/transplantssmall.jpg
     desc: testing for differences on a global scale
   - name: Fine Scale Differences
-    img: /img/transplants.jpg
+    img: /img/transplantssmall.jpg
     desc: using a reciprocal transplant experiment to examine differences in community assembly
   - name: Targeted Manipulation
-    img: /img/tankexperiments.jpg
+    img: /img/transplantssmall.jpg
     desc: community reassembly after bulk changes
   
 ---
