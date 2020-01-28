@@ -2,15 +2,15 @@
 title: Melissa Kardish
 subtitle: Community and Microbial Ecology
 project-list: 
- -name: Global Patterns
-  img: /img/ZEN_sitemap.jpg
-  url: ![Zostera Experimental Network]
- -name: Fine Scale Differences
-  img: /img/transplants.jpg
-  url: ![Reciprocal Transplants in Bodega Bay]
- -name: Targeted Manipulation
-  img: /img/tankexperiments.jpg
-  url: ![Manipulative Experiments]
+ - name: Global Patterns
+   img: /img/ZEN_sitemap.jpg
+   url: ![Zostera Experimental Network]
+ - name: Fine Scale Differences
+   img: /img/transplants.jpg
+   url: ![Reciprocal Transplants in Bodega Bay]
+ - name: Targeted Manipulation
+   img: /img/tankexperiments.jpg
+   url: ![Manipulative Experiments]
   
 ---
 <br/>
