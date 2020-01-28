@@ -3,7 +3,6 @@ title: Melissa Kardish
 subtitle: Community and Microbial Ecology
 project-list: 
  - name: Global Patterns 
-   img: /img/ZEN_sitemap.jpg 
    url: ![Zostera Experimental Network] 
  - name: Fine Scale Differences 
    img: /img/transplants.jpg 
