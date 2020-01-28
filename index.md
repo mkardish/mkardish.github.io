@@ -1,9 +1,7 @@
 ---
-layout: page
 title: Melissa Kardish
 subtitle: Community and Microbial Ecology
-use-site-title: true
-projects:
+project-list:
  -name: Global Patterns
   img: /img/ZEN_sitemap.jpg
   url: ![Zostera Experimental Network]
@@ -19,4 +17,4 @@ projects:
 Welcome! I'm a PhD candidate in Population Biology at the University of California, Davis currently studying seagrass-bacterial communities but broadly interested in host-microbiome interactions and feedbacks.
 </center>  
 
-{% include list-circles.html items=page.projects %}
+{% include list-circles.html items=page.project-list %}
