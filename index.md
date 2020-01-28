@@ -1,4 +1,5 @@
 ---
+layout: page	
 title: Melissa Kardish
 subtitle: Community and Microbial Ecology
 use-site-title: true	
